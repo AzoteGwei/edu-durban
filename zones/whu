@@ -1,0 +1,11 @@
+;; BEGIN whu.edu.durban.
+
+;; STATUS: DONE
+
+whu.edu.durban.	86400	IN	NS	ns1.he.net. ; whu.edu.durban
+whu.edu.durban.	86400	IN	NS	ns2.he.net. ; whu.edu.durban
+whu.edu.durban.	86400	IN	NS	ns3.he.net. ; whu.edu.durban
+whu.edu.durban.	86400	IN	NS	ns4.he.net. ; whu.edu.durban
+whu.edu.durban.	86400	IN	NS	ns5.he.net. ; whu.edu.durban
+
+;; END whu.edu.durban.
