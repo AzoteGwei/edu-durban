@@ -1,0 +1,8 @@
+;; BEGIN phi.edu.durban.
+
+;; STATUS: DONE
+
+phi.edu.durban.	86400	IN	NS	ns722.anydomains.work.gd. ; phi.edu.durban
+phi.edu.durban.	86400	IN	NS	ns265.anydomains.work.gd ; phi.edu.durban
+
+;; END phi.edu.durban.
