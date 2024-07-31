@@ -1,0 +1,11 @@
+;; BEGIN madressa.edu.durban.
+
+;; STATUS: DONE
+
+madressa.edu.durban.	86400	IN	NS	ns1.he.net. ; madressa.edu.durban
+madressa.edu.durban.	86400	IN	NS	ns2.he.net. ; madressa.edu.durban
+madressa.edu.durban.	86400	IN	NS	ns3.he.net. ; madressa.edu.durban
+madressa.edu.durban.	86400	IN	NS	ns4.he.net. ; madressa.edu.durban
+madressa.edu.durban.	86400	IN	NS	ns5.he.net. ; madressa.edu.durban
+
+;; END madressa.edu.durban.
