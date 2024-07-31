@@ -1,1 +1,11 @@
+;; BEGIN leslie.edu.durban.
 
+;; STATUS: DONE
+
+leslie.edu.durban.	86400	IN	NS	ns1.he.net. ; leslie.edu.durban
+leslie.edu.durban.	86400	IN	NS	ns2.he.net. ; leslie.edu.durban
+leslie.edu.durban.	86400	IN	NS	ns3.he.net. ; leslie.edu.durban
+leslie.edu.durban.	86400	IN	NS	ns4.he.net. ; leslie.edu.durban
+leslie.edu.durban.	86400	IN	NS	ns5.he.net. ; leslie.edu.durban
+
+;; END leslie.edu.durban.
