@@ -1,0 +1,8 @@
+;; BEGIN contoso.edu.durban.
+
+;; STATUS: DONE
+
+contoso.edu.durban.	86400	IN	NS	ns1.gcorelabs.net. ; contoso.edu.durban
+contoso.edu.durban.	86400	IN	NS	ns2.gcdn.services. ; contoso.edu.durban
+
+;; END contoso.edu.durban.
