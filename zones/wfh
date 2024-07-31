@@ -1,6 +1,6 @@
 ;; BEGIN wfh.edu.durban.
 
-;; STATUS: PENDING
+;; STATUS: DONE
 
 wfh.edu.durban.	86400	IN	NS	ns1.he.net. ; wfh.edu.durban
 wfh.edu.durban.	86400	IN	NS	ns2.he.net. ; wfh.edu.durban
