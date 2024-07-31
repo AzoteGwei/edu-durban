@@ -1,0 +1,11 @@
+;; BEGIN nic.edu.durban.
+
+;; STATUS: DONE
+
+nic.edu.durban.	86400	IN	NS	ns1.he.net. ; nic.edu.durban
+nic.edu.durban.	86400	IN	NS	ns2.he.net. ; nic.edu.durban
+nic.edu.durban.	86400	IN	NS	ns3.he.net. ; nic.edu.durban
+nic.edu.durban.	86400	IN	NS	ns4.he.net. ; nic.edu.durban
+nic.edu.durban.	86400	IN	NS	ns5.he.net. ; nic.edu.durban
+
+;; END nic.edu.durban.
