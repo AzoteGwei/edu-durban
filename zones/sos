@@ -1,0 +1,11 @@
+;; BEGIN sos.edu.durban.
+
+;; STATUS: DONE
+
+sos.edu.durban.	86400	IN	NS	ns1.he.net. ; sos.edu.durban
+sos.edu.durban.	86400	IN	NS	ns2.he.net. ; sos.edu.durban
+sos.edu.durban.	86400	IN	NS	ns3.he.net. ; sos.edu.durban
+sos.edu.durban.	86400	IN	NS	ns4.he.net. ; sos.edu.durban
+sos.edu.durban.	86400	IN	NS	ns5.he.net. ; sos.edu.durban
+
+;; END sos.edu.durban.
