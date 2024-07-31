@@ -1,11 +1,11 @@
-;; BEGIN ovo.edu.durban.
+;; BEGIN app.edu.durban.
 
 ;; STATUS: DONE
 
-ovo.edu.durban.	86400	IN	NS	ns1.he.net. ; ovo.edu.durban
-ovo.edu.durban.	86400	IN	NS	ns2.he.net. ; ovo.edu.durban
-ovo.edu.durban.	86400	IN	NS	ns3.he.net. ; ovo.edu.durban
-ovo.edu.durban.	86400	IN	NS	ns4.he.net. ; ovo.edu.durban
-ovo.edu.durban.	86400	IN	NS	ns5.he.net. ; ovo.edu.durban
+app.edu.durban.	86400	IN	NS	ns1.he.net. ; app.edu.durban
+app.edu.durban.	86400	IN	NS	ns2.he.net. ; app.edu.durban
+app.edu.durban.	86400	IN	NS	ns3.he.net. ; app.edu.durban
+app.edu.durban.	86400	IN	NS	ns4.he.net. ; app.edu.durban
+app.edu.durban.	86400	IN	NS	ns5.he.net. ; app.edu.durban
 
-;; END ovo.edu.durban.
+;; END app.edu.durban.
