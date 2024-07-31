@@ -1,0 +1,10 @@
+;; BEGIN meow.edu.durban.
+
+;; STATUS: PENDING
+
+meow.edu.durban.	86400	IN	NS	ns1.huaweicloud-dns.cn. ; meow.edu.durban
+meow.edu.durban.	86400	IN	NS	ns1.huaweicloud-dns.org. ; meow.edu.durban
+meow.edu.durban.	86400	IN	NS	ns1.huaweicloud-dns.net. ; meow.edu.durban
+meow.edu.durban.	86400	IN	NS	ns1.huaweicloud-dns.com. ; meow.edu.durban
+
+;; END meow.edu.durban.
