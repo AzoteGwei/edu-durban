@@ -1,6 +1,6 @@
 ;; BEGIN leslie.edu.durban.
 
-;; STATUS: DONE
+;; STATUS: PENDING
 
 leslie.edu.durban.	86400	IN	NS	ns1.he.net. ; leslie.edu.durban
 leslie.edu.durban.	86400	IN	NS	ns2.he.net. ; leslie.edu.durban
