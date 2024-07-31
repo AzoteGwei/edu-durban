@@ -1,0 +1,11 @@
+;; BEGIN wfh.edu.durban.
+
+;; STATUS: PENDING
+
+wfh.edu.durban.	86400	IN	NS	ns1.he.net. ; wfh.edu.durban
+wfh.edu.durban.	86400	IN	NS	ns2.he.net. ; wfh.edu.durban
+wfh.edu.durban.	86400	IN	NS	ns3.he.net. ; wfh.edu.durban
+wfh.edu.durban.	86400	IN	NS	ns4.he.net. ; wfh.edu.durban
+wfh.edu.durban.	86400	IN	NS	ns5.he.net. ; wfh.edu.durban
+
+;; END wfh.edu.durban.
