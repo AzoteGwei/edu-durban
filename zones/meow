@@ -1,6 +1,6 @@
 ;; BEGIN meow.edu.durban.
 
-;; STATUS: PENDING
+;; STATUS: DONE
 
 meow.edu.durban.	86400	IN	NS	ns1.huaweicloud-dns.cn. ; meow.edu.durban
 meow.edu.durban.	86400	IN	NS	ns1.huaweicloud-dns.org. ; meow.edu.durban
