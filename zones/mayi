@@ -1,0 +1,8 @@
+;; BEGIN mayi.edu.durban.
+
+;; STATUS: DONE
+
+mayi.edu.durban.	86400	IN	NS	ns1.gcorelabs.net. ; mayi.edu.durban
+mayi.edu.durban.	86400	IN	NS	ns2.gcdn.services. ; mayi.edu.durban
+
+;; END mayi.edu.durban.
