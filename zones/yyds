@@ -1,0 +1,8 @@
+;; BEGIN yyds.edu.durban.
+
+;; STATUS: DONE
+
+yyds.edu.durban.	86400	IN	NS	ns1.gcorelabs.net. ; yyds.edu.durban
+yyds.edu.durban.	86400	IN	NS	ns2.gcdn.services. ; yyds.edu.durban
+
+;; END yyds.edu.durban.
