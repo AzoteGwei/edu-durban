@@ -1,0 +1,9 @@
+;; BEGIN boyloft.edu.durban.
+
+;; STATUS: DONE
+
+boyloft.edu.durban.	86400	IN	NS	ns1.dynv6.com. ; boyloft.edu.durban
+boyloft.edu.durban.	86400	IN	NS	ns2.dynv6.com. ; boyloft.edu.durban
+boyloft.edu.durban.	86400	IN	NS	ns3.dynv6.com. ; boyloft.edu.durban
+
+;; END boyloft.edu.durban.
